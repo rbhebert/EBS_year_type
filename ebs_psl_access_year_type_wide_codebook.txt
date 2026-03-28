@@ -1,0 +1,30 @@
+stata_variable	source_industry_code
+Z_000000	000000	All industries
+Z_300000	300000	Manufacturing
+Z_400000	400000	Trade, transportation, and utilities
+Z_412000	412000	Retail trade
+Z_430000	430000	Transportation and warehousing
+Z_520A00	520A00	Financial activities
+Z_522000	522000	Credit intermediation
+Z_524000	524000	Insurance carriers
+Z_540A00	540A00	Professional and business services
+Z_600000	600000	Education and health services
+Z_611100	611100	Elementary and secondary schools
+Z_612000	612000	Junior colleges, colleges, universities, and professional schools
+Z_622000	622000	Hospitals
+Z_700000	700000	Leisure and hospitality
+Z_920000	920000	Public administration
+Z_G00000	G00000	Goods-producing
+Z_S00000	S00000	Service-providing
+naics_22	220000	Utilities
+naics_23	230000	Construction
+naics_42	420000	Wholesale trade
+naics_51	510000	Information
+naics_52	520000	Finance and insurance
+naics_53	530000	Real estate and rental and leasing
+naics_54	540000	Professional, scientific, and technical services
+naics_56	560000	Administrative and support and waste management and remediation services
+naics_61	610000	Educational services
+naics_62	620000	Health care and social assistance
+naics_72	720000	Accommodation and food services
+naics_81	810000	Other services (except public administration)
