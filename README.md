@@ -1,6 +1,6 @@
 # EBS Year-Type Paid Sick Leave Data
 
-This repository is a small replication package for building a national year-by-type dataset of paid sick leave access from the BLS Employee Benefits Survey (EBS). It contains the raw EBS workbook, one standalone Stata `.do` file, a ready-to-use `.dta` output, and a plain-text variable codebook.
+This repository is a small replication package for building a national year-by-type dataset of paid sick leave access from the BLS Employee Benefits Survey (EBS). It contains the raw EBS workbook, standalone Stata `.do` files, a ready-to-use `.dta` output, and a plain-text variable codebook.
 
 This version includes code to add census region and census division all-industry variables to the dataset.
 
