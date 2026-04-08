@@ -14,6 +14,8 @@ This version includes code to add census region and census division all-industry
   - A Stata script that creates a version of the output dataset with all industry estimates for census regions and divisions.
 - `output/ebs_psl_access_year_type_wide.dta`
   - The final year-by-type dataset.
+- `output/ebs_psl_access_year_type_wide_wCensusDiv.dta`
+  - The final year-by-type dataset, including census region and division.
 - `ebs_psl_access_year_type_wide_codebook.txt`
   - A text codebook for the industry variables in the output dataset.
 
